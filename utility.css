@@ -1,0 +1,41 @@
+.text-center{
+    text-align: center;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
+
+.color{
+    color: white;
+    background-color: darkblue;
+}
+
+.width{
+    width: 135px;
+    background-color: darkblue;
+    color: white;
+    font-weight: bolder;
+
+
+}
+
+.color-op{
+    background-color: lightblue;
+    color: black;
+    font-weight: bolder;
+}
+
+
+
